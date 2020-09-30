@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digicard-game/static/css/main.4b24cd35.chunk.css",
+    "main.js": "/digicard-game/static/js/main.52628050.chunk.js",
+    "main.js.map": "/digicard-game/static/js/main.52628050.chunk.js.map",
+    "runtime-main.js": "/digicard-game/static/js/runtime-main.e8ab3067.js",
+    "runtime-main.js.map": "/digicard-game/static/js/runtime-main.e8ab3067.js.map",
+    "static/js/2.dc3c3321.chunk.js": "/digicard-game/static/js/2.dc3c3321.chunk.js",
+    "static/js/2.dc3c3321.chunk.js.map": "/digicard-game/static/js/2.dc3c3321.chunk.js.map",
+    "index.html": "/digicard-game/index.html",
+    "precache-manifest.37d2c0ffa881daff0eb1847011ebcf96.js": "/digicard-game/precache-manifest.37d2c0ffa881daff0eb1847011ebcf96.js",
+    "service-worker.js": "/digicard-game/service-worker.js",
+    "static/css/main.4b24cd35.chunk.css.map": "/digicard-game/static/css/main.4b24cd35.chunk.css.map",
+    "static/js/2.dc3c3321.chunk.js.LICENSE.txt": "/digicard-game/static/js/2.dc3c3321.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8ab3067.js",
+    "static/js/2.dc3c3321.chunk.js",
+    "static/css/main.4b24cd35.chunk.css",
+    "static/js/main.52628050.chunk.js"
+  ]
+}
