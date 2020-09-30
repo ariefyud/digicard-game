@@ -1,0 +1,19 @@
+.Digidex {
+  text-align: center;
+}
+
+.Digidex-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 20px;
+}
+
+.Digidex-winner{
+  color: #4caf50
+}
+
+.Digidex-loser {
+  color: #e91e63
+}
